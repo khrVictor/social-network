@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    margin: 0 auto;
+    grid-area: h;
+    max-width: 900px;
+    border-radius: 10px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);    
+}
+.logo_heade_input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 50px;
+}
+.logo_heade_input img{
+   max-width: 140px;
+   width: 100%;
+}
+.user_wrapper{
+    padding: 10px;
+}
